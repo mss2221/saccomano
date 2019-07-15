@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-![Nam June Paik TV](img/namjunepaik.jpg){:height="450px" width="460px"}
+![Nam June Paik TV]({{ site.baseurl }}/img/namjunepaik.jpg){:height="450px" width="460px"}
