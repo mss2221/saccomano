@@ -17,7 +17,10 @@ title: Mark Saccomano
 email: m.saccomano@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Doctoral candidate in music theory at Columbia University
-baseurl: "" # the subpath of your site, e.g. /blog
+
+baseurl: "/saccomano" # the subpath of your site, e.g. /blog
+
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: llamabro
 github_username:  mss2221
