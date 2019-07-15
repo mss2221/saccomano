@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Nam June Paik TV](img/namjunepaik.jpg){:height="450px" width="460px"}
