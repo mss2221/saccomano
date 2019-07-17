@@ -11,7 +11,7 @@ m.saccomano@columbia.edu – (510) 759-9854<br/>
 
 Columbia University - Ph.D. in Music<br/>
 Degree expected 2020<br/>
-Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
+Dissertation: _Musical Sound and Spatial Perception: How Music Structures our Sense of Space_<br/>
 Advisor: Mariusz Kozak
 <br/><br/>
 Columbia University - M.Phil. in Music : 2017<br/>
