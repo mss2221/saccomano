@@ -45,19 +45,19 @@ Teaching Assistant – Instructor of Record
 <br/>
 **ACADEMIC AND PROFESSIONAL EXPERIENCE**
 
-Serge Prokofiev Archive : 2017 – 2019<br/>
-Columbia University, Rare Book & Manuscript Library
+_Serge Prokofiev Archive_ : 2017 – 2019<br/>
+Columbia University, Rare Book & Manuscript Library<br/>
 Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website. Migrated records into ArchivesSpace.
 
-FAB-Musiconis: French-American Bridge for Medieval Musical Iconography : 2017 – 2018<br/>
+_FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_ : 2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
 
-Historical Notation Bootcamp : August 2017<br/>
+_Historical Notation Bootcamp_ : August 2017<br/>
 Yale University, Beinecke Rare Book & Manuscript Library<br/>
 Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.
 
-Digital Centers Internship Program : 2016 – 2017<br/>
+_Digital Centers Internship Program_ : 2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
 Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21 and scripting with Python and XSLT.
 
