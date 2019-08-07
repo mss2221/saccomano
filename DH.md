@@ -4,6 +4,20 @@ title:  "DH Projects"
 ---
 [The Serge Prokofiev Archive as Data](https://spa-data.github.io/spa-data/)
 
+[Serge Prokofiev's Sketches](https://mss2221.github.io/spademo/sketches/)
+
+### [The Serge Prokofiev Archive as Data](https://spa-data.github.io/spa-data/)
+
+#### Columbia Rare Book and Manuscript Library
+* MEI repository of musical sketches
+
+[Prokofiev's Sketches](https://mss2221.github.io/spademo/sketches/)
+Playable transcriptions encoded in MEI and displayed with Verovio
+
+The Serge Prokofiev Archive contains sketchbooks in which Prokofiev wrote out brief, musical ideas. The SPA-data repository makes available a small corpus of these sketches in machine readable form for analysis, in both MEI and MusicXML formats.
+
+I used Jekyll with Verovio to generate individual pages for each sketch that display an image of the source material along with an SVG image of the encoded score, and that also allow the user to play a MIDI stream generated from the stored file.
+
 __Project One:__
 
 _Prokofiev’s Correspondents: An Interactive Visualization of Letters, Postcards, and Telegrams from the Serge Prokofiev Archive._
