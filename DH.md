@@ -38,4 +38,19 @@ A public interface to the Gibhub archive containing metadata for the items in th
 <br><br>
 
 #### Presentations and Workshops
-More to come
+
+“Introduction to the Digital Humanities”
+
+Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
+<br><br>
+“The Serge Prokofiev Archive as Data”
+
+Poster presented at Digital Humanities 2018 (conference), Mexico City, June 2018.
+<br><br>
+“Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”
+<br><br>
+Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
+<br><br>
+“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”
+<br><br>
+New Directions in Prokofiev Research (symposium), Columbia University, April 2018.
