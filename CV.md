@@ -120,9 +120,16 @@ Five-week seminar on designing classroom projects that foster critical and creat
 Member, Society for Music Theory (SMT)	2013 – 2019<br/>
 Member, American Musicological Association (AMS) : 2017 – 2019<br/>
 Member, Association for Computing in the Humanities (ACH) : 2017 – 2019<br/>
-Member, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019<br/>
+Reviewer, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019<br/>
 Member, New York City Digital Humanities Group (NYCDH) : 2017 – 2019<br/>
 Editorial Board, Current Musicology : 2016 – 2019
+
+<br/>
+<br/>
+**TECHINICAL SKILLS**
+
+Git, MEI, XSLT, XQuery, Jekyll, ArcGIS, XSLT, XQuery, oXygen, MySQL, OMEKA
+
 
 <br/>
 <br/>
