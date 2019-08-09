@@ -55,4 +55,4 @@ __“Las humanidades digitales en la investigación musical: el uso de herramien
 Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 <br><br>
 __“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”__\\
-New Directions in Prokofiev Research (symposium),  with Natalia Ermolaev, Columbia University, April 2018.
+New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.

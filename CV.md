@@ -59,7 +59,7 @@ Invited participant in a weeklong intensive workshop on reading medieval and ren
 
 _Digital Centers Internship Program_ : 2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
-Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21 and scripting with Python and XSLT.
+Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.
 
   <br/>
   <br/>
@@ -72,18 +72,18 @@ GSIM 2019 (conference) presented at the Graduate Center, City University of New 
  Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 
 “The Serge Prokofiev Archive as Data”<br/>
-Poster presented at Digital Humanities 2018 (conference), Mexico City, June 2018.
+Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
 
  “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”<br/>
  Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 
 “The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
- New Directions in Prokofiev Research (symposium), Columbia University, April 2018.
+ New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
 
 “Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
- Sounding Out the Space (conference), Dublin, Ireland, November 2017.
+ Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, May 2014.
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New York, May 2014.
 
 
 <br/>
