@@ -6,9 +6,8 @@ title:  "DH Projects"
 
 
 
-Projects based on encoding, retrieval, and display of metadata\\
-[The Serge Prokofiev Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html)\\
-Columbia Rare Book and Manuscript Library
+Projects based on encoding, retrieval, and display of metadata for\\
+[The Serge Prokofiev Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html), Columbia Rare Book and Manuscript Library
 <br><br>
 
 __[Prokofiev's Sketchbooks](https://mss2221.github.io/spademo/sketches/)__\\
