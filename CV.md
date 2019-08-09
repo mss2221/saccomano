@@ -83,7 +83,7 @@ Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev,
 “Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
  Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New York, May 2014.
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.
 
 
 <br/>
