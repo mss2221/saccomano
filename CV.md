@@ -9,15 +9,15 @@ title: Curriculum Vitae
 <br/>
 **EDUCATION**
 
-Columbia University - Ph.D. in Music&nbsp;:&nbsp;Degree expected 2020<br/>
+Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;Degree expected 2020<br/>
 Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
 Advisor: Dr. Mariusz Kozak
 
-Columbia University - M.Phil. in Music : 2017<br/>
-Columbia University - M.A. in Music : 2015<br/>
-California State University, East Bay - B.A. in Music : 2013<br/>
-University of California, Los Angeles - M.A. in Applied Linguistics : 1994<br/>
-University of California, Berkeley - B.A. in Linguistics, Magna cum laude : 1986\\
+Columbia University - M.Phil. in Music&nbsp;&nbsp;&nbsp;2017<br/>
+Columbia University - M.A. in Music&nbsp;&nbsp;&nbsp;2015<br/>
+California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
+University of California, Los Angeles - M.A. in Applied Linguistics&nbsp;&nbsp;&nbsp;1994<br/>
+University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&nbsp;&nbsp;1986\\
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
@@ -42,19 +42,19 @@ Teaching Assistant – Instructor of Record
 <br/>
 **ACADEMIC AND PROFESSIONAL EXPERIENCE**
 
-_Serge Prokofiev Archive_ : 2017 – 2019<br/>
+_Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
 Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website. Migrated records into ArchivesSpace.
 
-_FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_ : 2017 – 2018<br/>
+_FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
 
-_Historical Notation Bootcamp_ : August 2017<br/>
+_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
 Yale University, Beinecke Rare Book & Manuscript Library<br/>
 Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.
 
-_Digital Centers Internship Program_ : 2016 – 2017<br/>
+_Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
 Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.\\
 <br/>
@@ -84,42 +84,42 @@ Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev,
 <br/>
 **SCHOLARSHIPS AND AWARDS**
 
-Graduate School of Arts and Sciences Teaching Fellow : 2019<br/>
+Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
 Columbia University
 
-Tuition Scholarship : 2018<br/>
+Tuition Scholarship&nbsp;&nbsp;&nbsp;2018<br/>
 University of Victoria, Digital Humanities Summer Institute
 
-Dean’s Fellow : 2013 – 2019<br/>
+Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2019<br/>
 Columbia University
 
-Dean’s Diversity Fellowship : 2013<br/>
+Dean’s Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
 Columbia University
 
-Honors Program in Linguistics : 1985 – 1986<br/>
+Honors Program in Linguistics&nbsp;&nbsp;&nbsp;1985 – 1986<br/>
 University of California, Berkeley\\
 <br/>
 <br/>
 **PROFESSIONAL DEVELOPMENT**
 
-_Digital Literacy for Instructional Practices_ : Fall 2017\\
+_Digital Literacy for Instructional Practices_&nbsp;&nbsp;&nbsp;Fall 2017\\
 Columbia University, Center for Teaching and Learning\\
 Five-week seminar on designing classroom projects that foster critical and creative use of electronic information sources.
 
-_Music Encoding Initiative Workshop: Introduction to MEI_ : October 2017\\
+_Music Encoding Initiative Workshop: Introduction to MEI_&nbsp;&nbsp;&nbsp;October 2017\\
 University of Virginia, Charlottesville\\
 Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.\\
 <br/>
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
 
-Editorial Board, _Current Musicology_ : 2016 – 2019\\
-Member, Society for Music Theory (SMT) : 2013 – 2019\\
-Member, American Musicological Association (AMS) : 2017 – 2019\\
-Member, Association for Computing in the Humanities (ACH) : 2017 – 2019\\
-Member, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019\\
-Member, New York City Digital Humanities Group (NYCDH) : 2017 – 2019\\
-Member, New York State GIS Association (NYS GIS) : 2017 - 2019\\
+Editorial Board, _Current Musicology_&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2019\\
+Member, Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;2013 – 2019\\
+Member, American Musicological Association (AMS)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2019\\
 <br/>
 <br/>
 **TECHINICAL SKILLS**
