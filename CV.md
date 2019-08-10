@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 <font size="5"><b>Mark Saccomano</b></font>
-<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
+<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
 <b>m.saccomano@columbia.edu</b>&nbsp;&nbsp;&nbsp;(510) 759-9854
 <br/>
 <br/>
