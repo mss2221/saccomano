@@ -36,7 +36,7 @@ Teaching Assistant
 Teaching Assistant
 
 __University of California, Los Angeles__<br/>
-+ _Interdisciplinary Academic Writing_	1993\\
++ _Interdisciplinary Academic Writing_&nbsp;&nbsp;&nbsp;1993\\
 Teaching Assistant – Instructor of Record
 
 <br/>
