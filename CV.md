@@ -2,46 +2,43 @@
 layout: page
 title: Curriculum Vitae
 ---
-### Mark Saccomano ###
-608 West 113th Street, New York, NY 10025<br/>
-m.saccomano@columbia.edu – (510) 759-9854<br/>
+<font size="5"><b>Mark Saccomano</b></font>
+<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
+<b>m.saccomano@columbia.edu</b>&nbsp;&nbsp;&nbsp;(510) 759-9854
 <br/>
 <br/>
 **EDUCATION**
 
-Columbia University - Ph.D. in Music<br/>
-Degree expected 2020<br/>
+Columbia University - Ph.D. in Music&nbsp;:&nbsp;Degree expected 2020<br/>
 Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
 Advisor: Dr. Mariusz Kozak
-<br/><br/>
+
 Columbia University - M.Phil. in Music : 2017<br/>
 Columbia University - M.A. in Music : 2015<br/>
 California State University, East Bay - B.A. in Music : 2013<br/>
 University of California, Los Angeles - M.A. in Applied Linguistics : 1994<br/>
-University of California, Berkeley - B.A. in Linguistics, Magna cum laude : 1986
-
+University of California, Berkeley - B.A. in Linguistics, Magna cum laude : 1986\\
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
 
-Columbia University<br/>
-_Masterpieces of Western Music_		2019<br/>
+__Columbia University__<br/>
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
 Teaching Assistant – Instructor of Record
 
-_Fundamentals of Music_		2019<br/>
++ _Fundamentals of Music_&nbsp;&nbsp;&nbsp;2019\\
 Teaching Assistant – Instructor of Record
 
-_Masterpieces of Western Music_		2016 – 2017<br/>
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2016 – 2017\\
 Teaching Assistant
 
-_Music Theory I, II, III, IV_ 	 	2014 – 2016<br/>
++ _Music Theory I, II, III, IV_&nbsp;&nbsp;&nbsp;2014 – 2016\\
 Teaching Assistant
 
-UCLA<br/>
-_Interdisciplinary Academic Writing_	1993 – 1994<br/>
+__University of California, Los Angeles__<br/>
++ _Interdisciplinary Academic Writing_	1993\\
 Teaching Assistant – Instructor of Record
 
-<br/>
 <br/>
 **ACADEMIC AND PROFESSIONAL EXPERIENCE**
 
@@ -59,10 +56,9 @@ Invited participant in a weeklong intensive workshop on reading medieval and ren
 
 _Digital Centers Internship Program_ : 2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
-Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.
-
-  <br/>
-  <br/>
+Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.\\
+<br/>
+<br/>
 **PRESENTATIONS**
 
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
@@ -83,9 +79,7 @@ Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev,
 “Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
  Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.
-
-
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
 <br/>
 <br/>
 **SCHOLARSHIPS AND AWARDS**
@@ -103,16 +97,18 @@ Dean’s Diversity Fellowship : 2013<br/>
 Columbia University
 
 Honors Program in Linguistics : 1985 – 1986<br/>
-University of California, Berkeley
-
+University of California, Berkeley\\
 <br/>
 <br/>
 **PROFESSIONAL DEVELOPMENT**
 
-_Digital Literacy for Instructional Practices_ : Fall 2017<br/>
-Columbia University, Center for Teaching and Learning<br/>
+_Digital Literacy for Instructional Practices_ : Fall 2017\\
+Columbia University, Center for Teaching and Learning\\
 Five-week seminar on designing classroom projects that foster critical and creative use of electronic information sources.
 
+_Music Encoding Initiative Workshop: Introduction to MEI_ : October 2017\\
+University of Virginia, Charlottesville\\
+Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.\\
 <br/>
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
@@ -120,24 +116,21 @@ Five-week seminar on designing classroom projects that foster critical and creat
 Member, Society for Music Theory (SMT)	2013 – 2019<br/>
 Member, American Musicological Association (AMS) : 2017 – 2019<br/>
 Member, Association for Computing in the Humanities (ACH) : 2017 – 2019<br/>
-Reviewer, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019<br/>
+Member, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019<br/>
 Member, New York City Digital Humanities Group (NYCDH) : 2017 – 2019<br/>
-Editorial Board, Current Musicology : 2016 – 2019
-
+Editorial Board, Current Musicology : 2016 – 2019\\
 <br/>
 <br/>
 **TECHINICAL SKILLS**
 
-Git, MEI, XSLT, XQuery, Jekyll, ArcGIS, XSLT, XQuery, oXygen, MySQL, OMEKA
-
-
+MEI, XSLT, XML, HTML, oXygen, OpenRefine, Git\\
+Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
 <br/>
 <br/>
 **LANGUAGES**
 
 Spanish:	Excellent reading skills, intermediate conversation<br/>
-Italian:	Excellent reading skills, basic conversation
-
+Italian:	Excellent reading skills, basic conversation\\
 <br/>
 <br/>
 **REFERENCES**
