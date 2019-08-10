@@ -114,7 +114,7 @@ Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative
 **PROFESSIONAL ASSOCIATIONS**
 
 Editorial Board, _Current Musicology_ : 2016 – 2019\\
-Member, Society for Music Theory (SMT)	2013 – 2019\\
+Member, Society for Music Theory (SMT) : 2013 – 2019\\
 Member, American Musicological Association (AMS) : 2017 – 2019\\
 Member, Association for Computing in the Humanities (ACH) : 2017 – 2019\\
 Member, Alliance of Digital Humanities Organizations (ADHO) : 2017 – 2019\\
