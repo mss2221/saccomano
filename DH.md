@@ -30,10 +30,10 @@ Using publicly available metadata from Columbia’s Rare Book and Manuscript Lib
 </div>
 <br><br>
 
-__[The Serge Prokofiev Archive as Data : Portal](https://spa-data.github.io/spa-data/)__\\
+__[Project Website: The Serge Prokofiev Archive as Data](https://spa-data.github.io/spa-data/)__\\
 _Website created with Jekyll for SPA-Data repository_
 
-A public interface to the Gibhub archive containing metadata for the items in the Serge Prokofiev Archive. Includes space to showcase digital humanities projects by myself and project founder Dr.&nbsp;Natalia Ermolaev. Created using Jekyll.
+A public interface to the Gibhub archive containing metadata for the items in the Serge Prokofiev Archive. Includes space to showcase digital humanities projects by myself and project founder Dr.&nbsp;Natalia Ermolaev. Created using Jekyll. Integrated with Verovio for display and playing of MEI encoded scores.
 <br><br>
 
 
