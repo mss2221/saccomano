@@ -124,7 +124,7 @@ Member, New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2
 <br/>
 **TECHINICAL SKILLS**
 
-MEI, XSLT, XML, HTML, oXygen, OpenRefine, Git\\
+MEI, XSLT, XML, HTML, oXygen, OpenRefine, Git,\\
 Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
 <br/>
 <br/>
