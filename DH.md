@@ -41,18 +41,3 @@ __[The Serge Prokofiev Archive Finding Aid](https://findingaids.library.columbia
 _Columbia University Rare Book and Manuscript Library_
 
 From May of 2017 through January of 2018 I was responsible for making records of the archive’s holdings available online on the library’s website. This entailed first converting all the received digital records into XML and then transforming them into the standard Columbia EAD format. Data had to be cleaned and normalized in order to be processed properly by XSL transforms, and separate transforms had to be written for each subseries of items in the archive. For example, books, manuscripts, and correspondence were all stored in different formats, with different field names, and containing different sets of metadata. The result was the first publicly available listing of the archive’s holdings, including nearly 10,000 pieces of personal and business correspondence written between 1912 and 1947.
-<br><br>
-
-### __Presentations and Workshops__
-
-__“Introduction to the Digital Humanities”__\\
-Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
-<br><br>
-__“The Serge Prokofiev Archive as Data”__\\
-Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
-<br><br>
-__“Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”__\\
-Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
-<br><br>
-__“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”__\\
-New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
