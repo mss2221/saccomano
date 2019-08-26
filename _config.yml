@@ -22,7 +22,7 @@ baseurl: "/saccomano" # the subpath of your site, e.g. /blog
 
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: llamabro
+# twitter_username: llamabro
 github_username:  mss2221
 
 # Build settings
