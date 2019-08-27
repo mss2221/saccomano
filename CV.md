@@ -46,7 +46,7 @@ Teaching Assistant – Instructor of Record
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
-Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website. Migrated records into ArchivesSpace.
+Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website for repository. Encoded musical sketches for display, playback, and analysis using MEI and Verovio.
 
 _FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
