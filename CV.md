@@ -2,10 +2,10 @@
 layout: page
 title: Curriculum Vitae
 ---
-<!-- <div style="float: right;"><a href="/saccomano/docs/" download="CV2019.pdf">Download pdf</a></div> -->
+<div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
 
 <font size="5"><b>Mark Saccomano</b></font>
-<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
+<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
 <b>m.saccomano@columbia.edu</b>&nbsp;&nbsp;&nbsp;(510) 759-9854
 <br/>
 <br/>
@@ -26,10 +26,10 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 
 __Columbia University__<br/>
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
-Teaching Assistant – Instructor of Record
+Instructor of Record
 
 + _Fundamentals of Music_&nbsp;&nbsp;&nbsp;2019\\
-Teaching Assistant – Instructor of Record
+Instructor of Record
 
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2016 – 2017\\
 Teaching Assistant
@@ -39,7 +39,7 @@ Teaching Assistant
 
 __University of California, Los Angeles__<br/>
 + _Interdisciplinary Academic Writing_&nbsp;&nbsp;&nbsp;1993\\
-Teaching Assistant – Instructor of Record
+Instructor of Record
 
 <br/>
 **ACADEMIC AND PROFESSIONAL EXPERIENCE**
