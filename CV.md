@@ -42,7 +42,7 @@ __University of California, Los Angeles__<br/>
 Instructor of Record
 
 <br/>
-**ACADEMIC AND PROFESSIONAL EXPERIENCE**
+**RESEARCH EXPERIENCE**
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
@@ -51,10 +51,6 @@ Created XSLT style sheets to transform digitized records of holdings to Columbia
 _FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
-
-_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
-Yale University, Beinecke Rare Book & Manuscript Library<br/>
-Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.
 
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
@@ -110,7 +106,11 @@ Five-week seminar on designing classroom projects that foster critical and creat
 
 _Music Encoding Initiative Workshop: Introduction to MEI_&nbsp;&nbsp;&nbsp;October 2017\\
 University of Virginia, Charlottesville\\
-Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.\\
+Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.
+
+_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
+Yale University, Beinecke Rare Book & Manuscript Library<br/>
+Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.\\
 <br/>
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
