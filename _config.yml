@@ -27,6 +27,9 @@ github_username:  mss2221
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 theme: minima
 plugins:
   - jekyll-feed
