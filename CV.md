@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-<div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
+<a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a>
 
 <font size="5"><b>Mark Saccomano</b></font>
 <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
@@ -42,7 +42,7 @@ __University of California, Los Angeles__<br/>
 Instructor of Record
 
 <br/>
-**RESEARCH EXPERIENCE**
+**ACADEMIC AND PROFESSIONAL EXPERIENCE**
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
@@ -51,6 +51,10 @@ Created XSLT style sheets to transform digitized records of holdings to Columbia
 _FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
+
+_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
+Yale University, Beinecke Rare Book & Manuscript Library<br/>
+Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.
 
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
@@ -85,10 +89,6 @@ Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev,
 Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
 Columbia University
 
-
-Nicholas and Andrew Serwer Fund Award&nbsp;&nbsp;&nbsp;2018<br/>
-Columbia University Department of Music
-
 Tuition Scholarship&nbsp;&nbsp;&nbsp;2018<br/>
 University of Victoria, Digital Humanities Summer Institute
 
@@ -110,11 +110,7 @@ Five-week seminar on designing classroom projects that foster critical and creat
 
 _Music Encoding Initiative Workshop: Introduction to MEI_&nbsp;&nbsp;&nbsp;October 2017\\
 University of Virginia, Charlottesville\\
-Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.
-
-_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
-Yale University, Beinecke Rare Book & Manuscript Library<br/>
-Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.\\
+Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.\\
 <br/>
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
