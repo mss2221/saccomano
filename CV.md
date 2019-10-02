@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-<a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a>
+<div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
 
 <font size="5"><b>Mark Saccomano</b></font>
 <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
@@ -26,10 +26,10 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 
 __Columbia University__<br/>
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
-Instructor of Record
+Teaching Assistant – Instructor of Record
 
 + _Fundamentals of Music_&nbsp;&nbsp;&nbsp;2019\\
-Instructor of Record
+Teaching Assistant – Instructor of Record
 
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2016 – 2017\\
 Teaching Assistant
@@ -39,14 +39,14 @@ Teaching Assistant
 
 __University of California, Los Angeles__<br/>
 + _Interdisciplinary Academic Writing_&nbsp;&nbsp;&nbsp;1993\\
-Instructor of Record
+Teaching Assistant – Instructor of Record
 
 <br/>
 **ACADEMIC AND PROFESSIONAL EXPERIENCE**
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
-Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website for repository. Encoded musical sketches for display, playback, and analysis using MEI and Verovio.
+Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website. Migrated records into ArchivesSpace.
 
 _FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
