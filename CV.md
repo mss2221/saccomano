@@ -88,6 +88,9 @@ Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev,
 Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
 Columbia University
 
+Nicholas and Andrew Serwer Fund Award&nbsp;&nbsp;&nbsp;2018<br/>
+Columbia University Department of Music
+
 Tuition Scholarship&nbsp;&nbsp;&nbsp;2018<br/>
 University of Victoria, Digital Humanities Summer Institute
 
