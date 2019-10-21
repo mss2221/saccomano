@@ -97,7 +97,7 @@ University of Victoria, Digital Humanities Summer Institute
 Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2019<br/>
 Columbia University
 
-Dean’s Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
+Provost Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
 Columbia University
 
 Honors Program in Linguistics&nbsp;&nbsp;&nbsp;1985 – 1986<br/>
