@@ -18,7 +18,7 @@ Columbia University - M.Phil. in Music&nbsp;&nbsp;&nbsp;2017<br/>
 Columbia University - M.A. in Music&nbsp;&nbsp;&nbsp;2015<br/>
 California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
 University of California, Los Angeles - M.A. in Applied Linguistics&nbsp;&nbsp;&nbsp;1994<br/>
-University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&nbsp;&nbsp;1986\\
+University of California, Berkeley - B.A. in Linguistics, _magna cum laude_&nbsp;&nbsp;&nbsp;1986\\
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
