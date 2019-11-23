@@ -18,7 +18,7 @@ Columbia University - M.Phil. in Music&nbsp;&nbsp;&nbsp;2017<br/>
 Columbia University - M.A. in Music&nbsp;&nbsp;&nbsp;2015<br/>
 California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
 University of California, Los Angeles - M.A. in Applied Linguistics&nbsp;&nbsp;&nbsp;1994<br/>
-University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&nbsp;&nbsp;1986\\
+University of California, Berkeley - B.A. in Linguistics, _magna cum laude_&nbsp;&nbsp;&nbsp;1986\\
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
@@ -62,25 +62,29 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PRESENTATIONS**
 
-“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
+"Dangerous Music: Analysis, Criticism, and the Aesthetic Object."\\
+Paper presented to the Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
+
+“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”\\
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
 
-“Introduction to the Digital Humanities”<br/>
+“Introduction to the Digital Humanities”\\
  Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 
-“The Serge Prokofiev Archive as Data”<br/>
+“The Serge Prokofiev Archive as Data”\\
 Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
 
- “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”<br/>
+ “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”\\
  Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 
-“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
+“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”\\
  New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
 
-“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
+“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”\\
  Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”\\
+Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
 <br/>
 <br/>
 **SCHOLARSHIPS AND AWARDS**

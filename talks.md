@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: DH Talks
 permalink: /talks/
 ---
 ### __Presentations and Workshops__
