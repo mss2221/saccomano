@@ -121,14 +121,14 @@ Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
 
-Editorial Board, _Current Musicology_&nbsp;&nbsp;&nbsp;&nbsp;\\
-Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;\\
-American Musicological Association (AMS)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;\\
-New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;\\
-New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Music Library Association&nbsp;&nbsp;&nbsp;&nbsp;\\
+Editorial Board, _Current Musicology_&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2019\\
+Member, Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;2013 – 2019\\
+Member, American Musicological Association (AMS)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2019\\
+Member, Music Library Association&nbsp;&nbsp;&nbsp;&nbsp;2019 – 2020\\
 <br/>
 <br/>
 **TECHINICAL SKILLS**
