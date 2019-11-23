@@ -124,6 +124,7 @@ Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp
 Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
 Member, New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
 Member, New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2019\\
+Member, Music Library Association&nbsp;&nbsp;&nbsp;&nbsp;2019\\
 <br/>
 <br/>
 **TECHINICAL SKILLS**
