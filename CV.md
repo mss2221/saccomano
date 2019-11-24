@@ -133,8 +133,8 @@ Music Library Association&nbsp;&nbsp;&nbsp;&nbsp;\\
 <br/>
 **TECHINICAL SKILLS**
 
-MEI, XSLT, XML, HTML, EAD, oXygen, OpenRefine, Git,\\
-Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
+MEI, XSLT, XML, HTML, EAD, oXygen, OpenRefine, ArcGIS,\\
+Git, Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
 <br/>
 <br/>
 **LANGUAGES**
