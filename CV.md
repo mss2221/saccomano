@@ -23,17 +23,21 @@ University of California, Berkeley - B.A. in Linguistics, _magna cum laude_&nbsp
 <br/>
 **TEACHING EXPERIENCE**
 
+__Montclair State University, New Jersey__<br/>
++ _Introduction to Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020\\
+Adjunct Professor
+
 __Columbia University__<br/>
-+ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
-+ _Fundamentals of Music_&nbsp;&nbsp;&nbsp;2019\\
++ _Fundamentals of Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
-+ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2016 – 2017\\
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2017\\
 Teaching Assistant
 
-+ _Music Theory I, II, III, IV_&nbsp;&nbsp;&nbsp;2014 – 2016\\
++ _Music Theory I, II, III, IV_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014 – 2016\\
 Teaching Assistant
 
 __University of California, Los Angeles__<br/>
