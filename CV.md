@@ -27,7 +27,7 @@ __Montclair State University, New Jersey__<br/>
 + _Introduction to Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020\\
 Adjunct Professor
 
-__Columbia University__<br/>
+__Columbia University, New York__<br/>
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
