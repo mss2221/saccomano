@@ -23,11 +23,11 @@ University of California, Berkeley - B.A. in Linguistics, _magna cum laude_&nbsp
 <br/>
 **TEACHING EXPERIENCE**
 
-__Montclair State University, New Jersey__<br/>
+__Montclair State University__<br/>
 + _Introduction to Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020\\
 Adjunct Professor
 
-__Columbia University, New York__<br/>
+__Columbia University__<br/>
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
