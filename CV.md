@@ -67,7 +67,7 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 **PRESENTATIONS**
 
 "Dangerous Music: Analysis, Criticism, and the Aesthetic Object."\\
-Paper presented to the Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
+Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
 
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”\\
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
