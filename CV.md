@@ -10,7 +10,7 @@ title: Curriculum Vitae
 <br/>
 **EDUCATION**
 
-Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;Degree expected 2020<br/>
+Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;2020<br/>
 Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
 Advisor: Dr. Mariusz Kozak
 
