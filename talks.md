@@ -5,6 +5,10 @@ permalink: /talks/
 ---
 ### __Presentations and Workshops__
 
+__“MEI and Verovio for MIR: A Minimal Computing Approach”__\\
+MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
+<br><br>
+
 __“Introduction to the Digital Humanities”__\\
 Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 <br><br>
