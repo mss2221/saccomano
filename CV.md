@@ -66,6 +66,9 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PRESENTATIONS**
 
+“MEI and Verovio for MIR: A Minimal Computing Approach”\\
+MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
+
 "Dangerous Music: Analysis, Criticism, and the Aesthetic Object."\\
 Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
 
