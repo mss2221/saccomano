@@ -96,7 +96,7 @@ Theorizing Music Temporality (department conference), Columbia University, New&n
 <br/>
 **SCHOLARSHIPS AND AWARDS**
 
-Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
+Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2018 – 2019<br/>
 Columbia University
 
 Nicholas and Andrew Serwer Fund Award&nbsp;&nbsp;&nbsp;2018<br/>
@@ -105,7 +105,10 @@ Columbia University Department of Music
 Tuition Scholarship&nbsp;&nbsp;&nbsp;2018<br/>
 University of Victoria, Digital Humanities Summer Institute
 
-Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2019<br/>
+Dissertation Fellowship&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
+Columbia University
+
+Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2014<br/>
 Columbia University
 
 Provost Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
