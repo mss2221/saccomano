@@ -66,6 +66,10 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PRESENTATIONS**
 
+
+“Deciphering Encoded Music: Increasing Access to Open Data Resources”\\
+Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
+
 “MEI and Verovio for MIR: A Minimal Computing Approach”\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
 
