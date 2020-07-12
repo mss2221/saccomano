@@ -70,10 +70,10 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 “Deciphering Encoded Music: Increasing Access to Open Data Resources”\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 
-“MEI and Verovio for MIR: A Minimal Computing Approach”\\
+[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://music-encoding.org/conference/2020/abstracts_mec2020/Ermolaev-Saccomano_MEIforMIR_MEC_2020.pdf)\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
 
-"Dangerous Music: Analysis, Criticism, and the Aesthetic Object."\\
+["Dangerous Music: Analysis, Criticism, and the Aesthetic Object."](https://legacy.societymusictheory.org/files/2019_handouts/saccomano.pdf)\\
 Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
 
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”\\
@@ -82,7 +82,7 @@ GSIM 2019 (conference) presented at the Graduate Center, City University of New 
 “Introduction to the Digital Humanities”\\
  Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 
-“The Serge Prokofiev Archive as Data”\\
+[“The Archive as Collaborative Learning Space”](https://dh2018.adho.org/en/the-archive-as-collaborative-learning-space/)\\
 Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
 
  “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”\\
