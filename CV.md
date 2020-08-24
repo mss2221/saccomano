@@ -5,13 +5,17 @@ title: Curriculum Vitae
 <div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
 
 <font size="5"><b>Mark Saccomano</b></font>
-<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
-<b>m.saccomano@columbia.edu</b>&nbsp;&nbsp;&nbsp;(510) 759-9854
-<br/>
+<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+<b>m.saccomano@columbia.edu</b>
+<br/><br/>
+Universität Paderborn<br/>
+Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
+Hornsche Str. 39 | 32756 Detmold | Germany<br/>
+mark.saccomano@uni-paderborn.de<br/>
 <br/>
 **EDUCATION**
 
-Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;Degree expected 2020<br/>
+Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;2020<br/>
 Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
 Advisor: Dr. Mariusz Kozak
 
