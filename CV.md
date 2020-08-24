@@ -2,7 +2,6 @@
 layout: page
 title: Curriculum Vitae
 ---
-<div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
 
 <font size="5"><b>Mark Saccomano</b></font>
 <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
