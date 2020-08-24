@@ -2,11 +2,16 @@
 layout: page
 title: Curriculum Vitae
 ---
-<!-- <div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div> -->
+<div style="float: right;"><a href="/saccomano/docs/CV2019.pdf" download>Download pdf</a></div>
+
 <font size="5"><b>Mark Saccomano</b></font>
-<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY</font>
-<b>m.saccomano@columbia.edu</b>&nbsp;&nbsp;&nbsp;(510) 759-9854
-<br/>
+<font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+<b>m.saccomano@columbia.edu</b>
+<br/><br/>
+Universität Paderborn<br/>
+Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
+Hornsche Str. 39 | 32756 Detmold | Germany<br/>
+mark.saccomano@uni-paderborn.de<br/>
 <br/>
 **EDUCATION**
 
@@ -18,26 +23,22 @@ Columbia University - M.Phil. in Music&nbsp;&nbsp;&nbsp;2017<br/>
 Columbia University - M.A. in Music&nbsp;&nbsp;&nbsp;2015<br/>
 California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
 University of California, Los Angeles - M.A. in Applied Linguistics&nbsp;&nbsp;&nbsp;1994<br/>
-University of California, Berkeley - B.A. in Linguistics, _magna cum laude_&nbsp;&nbsp;&nbsp;1986\\
+University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&nbsp;&nbsp;1986\\
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
 
-__Montclair State University__<br/>
-+ _Introduction to Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020\\
-Adjunct Professor
-
 __Columbia University__<br/>
-+ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2019\\
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
-+ _Fundamentals of Music_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019\\
++ _Fundamentals of Music_&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
 
-+ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2017\\
++ _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2016 – 2017\\
 Teaching Assistant
 
-+ _Music Theory I, II, III, IV_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014 – 2016\\
++ _Music Theory I, II, III, IV_&nbsp;&nbsp;&nbsp;2014 – 2016\\
 Teaching Assistant
 
 __University of California, Los Angeles__<br/>
@@ -45,19 +46,15 @@ __University of California, Los Angeles__<br/>
 Instructor of Record
 
 <br/>
-**ACADEMIC AND PROFESSIONAL EXPERIENCE**
+**RESEARCH EXPERIENCE**
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
-Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website. Migrated records into ArchivesSpace.
+Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website for repository. Encoded musical sketches for display, playback, and analysis using MEI and Verovio.
 
 _FAB-Musiconis: French-American Bridge for Medieval Musical Iconography_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
-
-_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
-Yale University, Beinecke Rare Book & Manuscript Library<br/>
-Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.
 
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
@@ -66,42 +63,32 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PRESENTATIONS**
 
-
-“Deciphering Encoded Music: Increasing Access to Open Data Resources”\\
-Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
-
-[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://music-encoding.org/conference/2020/abstracts_mec2020/Ermolaev-Saccomano_MEIforMIR_MEC_2020.pdf)\\
-MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
-
-["Dangerous Music: Analysis, Criticism, and the Aesthetic Object."](https://legacy.societymusictheory.org/files/2019_handouts/saccomano.pdf)\\
-Music Cognition and Music & Disability Interest Groups, Society for Music Theory (SMT) Annual Meeting, Columbus, OH, November 2019.
-
-“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”\\
+“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
 
-“Introduction to the Digital Humanities”\\
+“Introduction to the Digital Humanities”<br/>
  Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 
-[“The Archive as Collaborative Learning Space”](https://dh2018.adho.org/en/the-archive-as-collaborative-learning-space/)\\
+“The Serge Prokofiev Archive as Data”<br/>
 Poster presented at Digital Humanities 2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
 
- “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”\\
+ “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”<br/>
  Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 
-“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”\\
+“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
  New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
 
-“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”\\
+“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
  Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”\\
-Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
 <br/>
 <br/>
 **SCHOLARSHIPS AND AWARDS**
 
-Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2018 – 2019<br/>
+Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
 Columbia University
+
 
 Nicholas and Andrew Serwer Fund Award&nbsp;&nbsp;&nbsp;2018<br/>
 Columbia University Department of Music
@@ -109,13 +96,10 @@ Columbia University Department of Music
 Tuition Scholarship&nbsp;&nbsp;&nbsp;2018<br/>
 University of Victoria, Digital Humanities Summer Institute
 
-Dissertation Fellowship&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
+Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2019<br/>
 Columbia University
 
-Dean’s Fellow&nbsp;&nbsp;&nbsp;2013 – 2014<br/>
-Columbia University
-
-Provost Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
+Dean’s Diversity Fellowship&nbsp;&nbsp;&nbsp;2013<br/>
 Columbia University
 
 Honors Program in Linguistics&nbsp;&nbsp;&nbsp;1985 – 1986<br/>
@@ -130,25 +114,28 @@ Five-week seminar on designing classroom projects that foster critical and creat
 
 _Music Encoding Initiative Workshop: Introduction to MEI_&nbsp;&nbsp;&nbsp;October 2017\\
 University of Virginia, Charlottesville\\
-Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.\\
+Three-day, hands-on MEI workshop led by members of the Music Encoding Initiative board and technical team.
+
+_Historical Notation Bootcamp_&nbsp;&nbsp;&nbsp;August 2017<br/>
+Yale University, Beinecke Rare Book & Manuscript Library<br/>
+Invited participant in a weeklong intensive workshop on reading medieval and renaissance music notation.\\
 <br/>
 <br/>
 **PROFESSIONAL ASSOCIATIONS**
 
-Editorial Board, _Current Musicology_&nbsp;&nbsp;&nbsp;&nbsp;\\
-Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;\\
-American Musicological Association (AMS)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;\\
-New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;\\
-New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;\\
-Music Library Association&nbsp;&nbsp;&nbsp;&nbsp;\\
+Editorial Board, _Current Musicology_&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2019\\
+Member, Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;2013 – 2019\\
+Member, American Musicological Association (AMS)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York City Digital Humanities Group (NYCDH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2019\\
+Member, New York State GIS Association (NYS GIS)&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2019\\
 <br/>
 <br/>
 **TECHINICAL SKILLS**
 
-MEI, XSLT, XML, HTML, EAD, oXygen, OpenRefine, ArcGIS,\\
-Git, Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
+MEI, XSLT, XML, HTML, EAD, oXygen, OpenRefine, Git,\\
+Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
 <br/>
 <br/>
 **LANGUAGES**
