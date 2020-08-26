@@ -8,7 +8,7 @@ permalink: /talks/
 __“Deciphering Encoded Music: Increasing Access to Open Data Resources”__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 <br><br>
-__“MEI and Verovio for MIR: A Minimal Computing Approach”__\\
+__[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://docs.google.com/document/d/15NrTv8HRIMQtuboNsrEs8UVOXcm0ryaIsLnDGOpgROU/)__\\ 
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
 <br><br>
 __“Introduction to the Digital Humanities”__\\
