@@ -5,11 +5,12 @@ permalink: /talks/
 ---
 ### __Presentations and Workshops__
 
-__“Deciphering Encoded Music: Increasing Access to Open Data Resources”__\\
+__[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 <br><br>
-__[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://docs.google.com/document/d/15NrTv8HRIMQtuboNsrEs8UVOXcm0ryaIsLnDGOpgROU/)__\\ 
-MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA, May 2020.
+__[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://docs.google.com/document/d/15NrTv8HRIMQtuboNsrEs8UVOXcm0ryaIsLnDGOpgROU/)__\\
+MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
+May 2020.
 <br><br>
 __“Introduction to the Digital Humanities”__\\
 Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
