@@ -62,7 +62,7 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PUBLICATIONS**
 
-__["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/558606/558686)__ _Journal of Sonic Studies_&nbsp;20 (2020).
+__["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/558606/558686)__ _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 <br/>
 **PRESENTATIONS**
