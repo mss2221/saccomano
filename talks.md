@@ -5,6 +5,9 @@ permalink: /talks/
 ---
 ### __Presentations and Workshops__
 
+__"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies: Refining the Concept of the Musical Work"__\\
+Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
+<br><br>
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 <br><br>
