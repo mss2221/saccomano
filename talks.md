@@ -11,7 +11,7 @@ Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 <br><br>
-__[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://docs.google.com/document/d/15NrTv8HRIMQtuboNsrEs8UVOXcm0ryaIsLnDGOpgROU/)__\\
+__[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)__\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
 May 2020.
 <br><br>
