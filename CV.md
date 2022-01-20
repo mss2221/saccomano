@@ -27,7 +27,7 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 <br/>
 **TEACHING EXPERIENCE**
 
-__Musikwissenschaftliches Seminar Detmold/Paderborn__<br/>
+__Hochschule für Musik Detmold, Universität Paderborn__<br/>
 + _Music Encoding and the Digital Humanities: Theory and Practice_&nbsp;&nbsp;&nbsp;2021\\
 Adjunct Professor
 
@@ -76,10 +76,11 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 **PRESENTATIONS**
 
 "The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
-Lecture Series: "Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities", \\
-Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 2022.
+Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series),
+Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
-"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies: Refining the Concept of the Musical Work"<br/>Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
+"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\Refining the Concept of the Musical Work"<br>
+Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
 
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
