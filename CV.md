@@ -15,9 +15,6 @@ mark.saccomano@uni-paderborn.de<br/>
 **EDUCATION**
 
 Columbia University - Ph.D. in Music&nbsp;&nbsp;&nbsp;&nbsp;2020<br/>
-Dissertation: Musical Sound and Spatial Perception: How Music Structures our Sense of Space<br/>
-Advisor: Dr. Mariusz Kozak
-
 Columbia University - M.Phil. in Music&nbsp;&nbsp;&nbsp;2017<br/>
 Columbia University - M.A. in Music&nbsp;&nbsp;&nbsp;2015<br/>
 California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
@@ -76,7 +73,7 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 **PRESENTATIONS**
 
 "The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
-Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert, 
+Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
 Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
 "Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\

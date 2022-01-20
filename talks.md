@@ -5,15 +5,16 @@ permalink: /talks/
 ---
 ### __Presentations and Workshops__
 
-__"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"__\\
+__"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works\\
+with Digital Tools"__\\
 Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
 Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 <br><br>
 __"MEI Music Encoding for Beginners"__\\
-[Edirom Summer School](https://ess.uni-paderborn.de/), with Ran Mo and Richard Sanger, Virtuellen Forschungsverbund Edirom am Musikwissenschaftlichen Seminar Detmold/Paderborn https://edirom.de/, September 2021.
+[Edirom Summer School](https://ess.uni-paderborn.de/), with Ran Mo and Richard Sanger, Virtuellen Forschungsverbund Edirom am Musikwissenschaftlichen Seminar Detmold/Paderborn, [https://edirom.de/](https://edirom.de/), September 2021.
 <br><br>
 __"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies: Refining the Concept of the Musical Work"__\\
-Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
+Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, October 27, 2020.
 <br><br>
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
 Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
