@@ -27,6 +27,14 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 <br/>
 **TEACHING EXPERIENCE**
 
+__Musikwissenschaftliches Seminar Detmold/Paderborn__<br/>
++ _Music Encoding and the Digital Humanities: Theory and Practice_&nbsp;&nbsp;&nbsp;2021\\
+Adjunct Professor
+
+__Montclair University__<br/>
++ _Introduction to Music_&nbsp;&nbsp;&nbsp;2020\\
+Adjunct Professor
+
 __Columbia University__<br/>
 + _Masterpieces of Western Music_&nbsp;&nbsp;&nbsp;2019\\
 Instructor of Record
@@ -66,6 +74,10 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 <br/>
 <br/>
 **PRESENTATIONS**
+
+"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
+Lecture Series: "Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities", \\
+Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 2022.
 
 "Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies: Refining the Concept of the Musical Work"<br/>Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
 
