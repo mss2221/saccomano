@@ -76,7 +76,7 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 **PRESENTATIONS**
 
 "The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
-Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series),
+Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert, 
 Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
 "Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\
