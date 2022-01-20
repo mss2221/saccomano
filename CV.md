@@ -79,7 +79,8 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series),
 Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
-"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\Refining the Concept of the Musical Work"<br>
+"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\
+Refining the Concept of the Musical Work"<br>
 Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
 
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
