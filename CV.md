@@ -168,6 +168,7 @@ Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
 
 Spanish:	Excellent reading skills, intermediate conversation\\
 Italian:	Excellent reading skills, basic conversation\\
+German: Reading skills, basic conversation\\
 <br/>
 <br/>
 **REFERENCES**
