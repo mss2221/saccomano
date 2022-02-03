@@ -52,6 +52,11 @@ Instructor of Record
 <br/>
 **RESEARCH EXPERIENCE**
 
+_[Domestic Beethoven: Digital Studies of_ Hausmusik _Arrangements](http://domestic-beethoven.eu/)_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
+Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold<br/>
+Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University, and RISM Digital Center.
+Modeling musical structures for use with encoded music and MIR technology in applications that enable musicologists to view and annotate digitized resources in multiple archival collections.
+
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
 Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website for repository. Encoded musical sketches for display, playback, and analysis using MEI and Verovio.
