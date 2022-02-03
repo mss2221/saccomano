@@ -7,8 +7,8 @@ title: Curriculum Vitae
 <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <b>mark.saccomano@uni-paderborn.de</b>
 <br/><br/>
-Universität Paderborn<br/>
-Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
+Musikwissenschaftliches Seminar<br/>
+Universität Paderborn / Hochschule für Musik Detmold<br/>
 Hornsche Str. 39 | 32756 Detmold | Germany<br/>
 <br/><br/>
 **EDUCATION**
