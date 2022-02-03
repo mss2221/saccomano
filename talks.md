@@ -4,7 +4,7 @@ title: DH Talks
 permalink: /talks/
 ---
 ### __Presentations and Workshops__
-
+<br><br>
 __"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works\\
 with Digital Tools"__\\
 Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
