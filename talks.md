@@ -30,7 +30,7 @@ __“The Serge Prokofiev Archive as Data”__\\
 Poster presented at DH2018 (conference), with Natalia Ermolaev, Mexico City, June 2018.
 <br><br>
 __“Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”__\\
-Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
+Invited talk, Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 <br><br>
 __“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”__\\
 New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
