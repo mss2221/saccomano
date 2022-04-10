@@ -17,7 +17,7 @@ __"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonie
 Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, October 27, 2020.
 <br><br>
 __[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)__\\
-Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
+Panel co-chair and organizer, DH2020 (conference), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020. (Conference cancelled)
 <br><br>
 __[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)__\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
