@@ -119,6 +119,8 @@ _Upcoming_
 
 "Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
 
+"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022. 
+
 "Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
 
 "Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements," Roundtable, with Christine Siegert, Johannes Kepper, et al., 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
