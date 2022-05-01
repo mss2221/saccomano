@@ -73,7 +73,7 @@ Instructor of Record
 
 **PUBLICATIONS**
 
-__["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/558606/558686)__ _Journal of Sonic Studies_&nbsp;20 (2020).\\
+["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/558606/558686) _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 <br/>
 **PRESENTATIONS**
@@ -92,9 +92,6 @@ GSIM 2019 (conference) presented at the Graduate Center, City University of New 
 
 “The Serge Prokofiev Archive as Data”<br/>
 Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
-
- “Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”<br/>
- Invited talk, Faculdad de Música, Universidad Nacional Autónoma de México, Mexico City, June 2018.
 
 “The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
  New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
