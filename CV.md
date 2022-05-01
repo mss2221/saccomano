@@ -78,13 +78,7 @@ __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmosp
 <br/>
 **PRESENTATIONS**
 
-"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
-Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
-Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
-"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\
-Refining the Concept of the Musical Work"<br>
-Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
@@ -95,9 +89,6 @@ May 2020.
 
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
-
-“Introduction to the Digital Humanities”<br/>
- Workshop prepared for the Public Humanities Fellowship Program, New York Council for the Humanities, December 2018.
 
 “The Serge Prokofiev Archive as Data”<br/>
 Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
@@ -119,7 +110,7 @@ _Upcoming_
 
 "Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
 
-"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022. 
+"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
 
 "Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
 
@@ -130,6 +121,26 @@ Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, Sep
 
 <br/>
 <br/>
+**INVITED TALKS**
+
+"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
+Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
+Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
+
+"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\
+Refining the Concept of the Musical Work"<br>
+Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
+
+“Introduction to the Digital Humanities”<br/>
+ Public Humanities Fellowship Program, New York Council for the Humanities (Humanities New York), December 2018.
+
+“Las humanidades digitales en la investigación musical: el uso de herramientas de geovisualización en la exploración del Archivo Serguéi Prokófiev”<br/>
+Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, June 22, 2018.
+
+<br/>
+<br/>
+
+
 **SCHOLARSHIPS AND AWARDS**
 
 Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
