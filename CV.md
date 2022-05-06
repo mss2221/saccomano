@@ -73,7 +73,7 @@ Instructor of Record
 
 **PUBLICATIONS**
 
-["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/558606/558686) _Journal of Sonic Studies_&nbsp;20 (2020).\\
+["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 <br/>
 **PRESENTATIONS**
