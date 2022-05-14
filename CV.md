@@ -78,7 +78,7 @@ Instructor of Record
 <br/>
 **PRESENTATIONS**
 
-
+"Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
@@ -104,8 +104,6 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 <br/>
 
 _Upcoming_
-
-"Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
 
 "A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
 
