@@ -20,7 +20,7 @@ California State University, East Bay - B.A. in Music&nbsp;&nbsp;&nbsp;2013<br/>
 University of California, Los Angeles - M.A. in Applied Linguistics&nbsp;&nbsp;&nbsp;1994<br/>
 University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&nbsp;&nbsp;1986\\
 <br/>
-<br/>
+
 
 **RESEARCH EXPERIENCE**
 
@@ -40,6 +40,51 @@ Cohort member of digital humanities training program cataloging and editing imag
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
 Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.\\
+<br/>
+<br/>
+**PUBLICATIONS**
+
+["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
+<br/>
+
+**PRESENTATIONS**
+
+"Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
+
+[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
+Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
+<br><br>
+[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)\\
+MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
+May 2020.
+
+“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
+GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
+
+“The Serge Prokofiev Archive as Data”<br/>
+Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
+
+“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
+ New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
+
+“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
+ Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
+
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
+<br/>
+
+
+_Upcoming_
+
+"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
+
+"Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
+
+"Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements," Roundtable, with Christine Siegert, Johannes Kepper, et al., 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
+
+"What Affect Means for Music Analysis: Examining Texture in Steve Reich's Minimalist Works,"<br/>
+Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 2022.  
+
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
@@ -71,51 +116,7 @@ Instructor of Record
 
 <br/>
 
-**PUBLICATIONS**
 
-["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
-<br/>
-<br/>
-**PRESENTATIONS**
-
-"Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
-
-[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
-Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
-<br><br>
-[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)\\
-MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
-May 2020.
-
-“Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
-GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
-
-“The Serge Prokofiev Archive as Data”<br/>
-Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
-
-“The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
- New Directions in Prokofiev Research (symposium), with Natalia Ermolaev, Columbia University, New York, April 2018.
-
-“Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
- Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
-
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality (department conference), Columbia University, New&nbsp;York, May 2014.\\
-<br/>
-<br/>
-
-_Upcoming_
-
-"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
-
-"Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
-
-"Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements," Roundtable, with Christine Siegert, Johannes Kepper, et al., 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
-
-"What Affect Means for Music Analysis: Examining Texture in Steve Reich's Minimalist Works,"<br/>
-Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 2022.  
-
-<br/>
-<br/>
 **INVITED TALKS**
 
 "The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works with Digital Tools"<br/>
