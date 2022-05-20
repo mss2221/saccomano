@@ -3,8 +3,11 @@ layout: page
 title: DH Talks
 permalink: /talks/
 ---
-### __Presentations and Workshops__
+### __Presentations, Posters and Workshops__
 <br>
+__"A New Conceptual Model for Musical Sources and Musicological Studies"__\\
+Elisabete Shibata, David Lewis, Mark Saccomano, et al. Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
+<br/><br/>
 __"The Unknown Beethoven: Studying Domestic Arrangements of Symphonic Works\\
 with Digital Tools"__\\
 Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,

@@ -76,7 +76,7 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 
 _Upcoming_
 
-"A New Conceptual Model for Musical Sources and Musicological Studies," with Elisabete Shibata, David Lewis, et al., Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
+
 
 "Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
 
