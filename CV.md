@@ -179,7 +179,7 @@ Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nb
 
 MEI, XSLT, XQuery, XML, HTML, EAD, oXygen, OpenRefine, \\
 Git, Node.js, Vue.js, JavaScript, Linked Data, XQuery, \\
-Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka\\
+Jekyll, Liquid, Markdown, ArcGIS, MySQL, Omeka
 
 <br/>
 <br/>
