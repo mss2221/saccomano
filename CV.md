@@ -171,8 +171,7 @@ Five-week seminar on designing classroom projects that foster critical and creat
 
 Member, Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;2013 – 2022\\
 Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2022\\
-Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2022\\
-
+Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2022
 
 <br/>
 <br/>
