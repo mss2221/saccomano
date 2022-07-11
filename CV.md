@@ -49,6 +49,8 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 
 **PRESENTATIONS**
 
+"Chaos and Coherence: The Effects of Timbre on the Perception of Space," 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 2022.
+
 "Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 2022.
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
@@ -76,9 +78,7 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 
 _Upcoming_
 
-
-
-"Modeling Music for Musicologists: A Linked Open Data Approach,"" Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
+"Modeling Music for Musicologists: A Linked Open Data Approach," Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
 
 "Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements," Roundtable, with Christine Siegert, Johannes Kepper, et al., 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
 
