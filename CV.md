@@ -49,9 +49,10 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 
 **PRESENTATIONS**
 
-"Chaos and Coherence: The Effects of Timbre on the Perception of Space," 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
+"Chaos and Coherence: The Effects of Timbre on the Perception of Space,"\\
+8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
 
-"Beyond Mechanical Sound: Discovering and Understanding the Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 5, 2022.
+"Beyond Mechanical Sound: Discovering and Understanding Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 5, 2022.
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
