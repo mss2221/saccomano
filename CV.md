@@ -49,6 +49,8 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 
 **PRESENTATIONS**
 
+"What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September, 2022.
+
 "Chaos and Coherence: The Effects of Timbre on the Perception of Space,"\\
 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
 
