@@ -49,12 +49,18 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 
 **PRESENTATIONS**
 
-"What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September, 2022.
+"What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28 – October 1, 2022.
 
-"Chaos and Coherence: The Effects of Timbre on the Perception of Space,"\\
+"The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“. Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28 – October 1, 2022.
+
+“Modeling Music for Musicologists: A Linked Open Data Approach”\\
+Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 27, 2022.
+
+"Chaos and Coherence: The Effects of Timbre on the Perception of Space"\\
 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
 
-"Beyond Mechanical Sound: Discovering and Understanding Emergent Repetition in Minimal Music," Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 5, 2022.
+"Beyond Mechanical Sound: Discovering and Understanding Emergent Repetition in Minimal Music"\\
+Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 5, 2022.
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
