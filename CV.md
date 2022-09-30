@@ -75,18 +75,7 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 “Moved by the Music: Encounters in Space with the Electroacoustic Sounds of Ryoji Ikeda”<br/>
  Sounding Out the Space (conference), Dublin Institute of Technology, November 2017.
 
-“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality, Columbia University, New&nbsp;York, May 2014.\\
-<br/>
-
-
-_Upcoming_
-
-"Modeling Music for Musicologists: A Linked Open Data Approach," Short Paper presented at Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 2022.
-
-"Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements," Roundtable, with Christine Siegert, Johannes Kepper, et al., 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
-
-"What Affect Means for Music Analysis: Examining Texture in Steve Reich's Minimalist Works,"<br/>
-Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 2022.  
+“Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality, Columbia University, New&nbsp;York, May 2014.
 
 <br/>
 <br/>
