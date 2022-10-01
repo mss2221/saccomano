@@ -69,6 +69,8 @@ Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Erm
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
 May 2020.
 
+"Dangerous Music: Analysis, Criticism, and the Aesthetic Object." Paper presented to the Music Cognition and Music & Disability Interest Groups, Society for Music Theory Annual Meeting, Columbus, Ohio, November 7-10, 2019.
+
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
 
