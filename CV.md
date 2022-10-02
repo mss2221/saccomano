@@ -56,7 +56,7 @@ Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for an
 "The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“. Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28 – October 1, 2022.
 
 “Modeling Music for Musicologists: A Linked Open Data Approach”\\
-Digital Humanities 2022 (DH2022), with Elisabete Shibata, David Lewis, et al., Tokyo, July 27, 2022.
+Mark Saccomano,  Elisabete Shibata, David Lewis, Andrew Hankinson, and Kevin Page, Digital Humanities 2022 (DH2022), Tokyo, July 27, 2022.
 
 "Chaos and Coherence: The Effects of Timbre on the Perception of Space"\\
 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
