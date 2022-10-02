@@ -44,6 +44,8 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 <br/>
 **PUBLICATIONS**
 
+Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891) _In Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
+
 ["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 
