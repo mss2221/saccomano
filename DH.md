@@ -19,7 +19,7 @@ These two demo projects show how scholars can present their research on an easil
 __[The Serge Prokofiev Archive as Data](https://spa-data.github.io/spa-data/)__\\
 Projects based on encoding, retrieval, and display of metadata for\\
 [The Serge Prokofiev Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html), Columbia Rare Book and Manuscript Library
-<br><br>
+<br>
 
 * __[Prokofiev's Sketchbooks](https://mss2221.github.io/spademo/sketches/)__\\
 _Playable transcriptions encoded in MEI and displayed with Verovio_
@@ -28,7 +28,6 @@ The Serge Prokofiev Archive contains sketchbooks in which Prokofiev wrote out br
 
 Verovio was incorporated into the Jekyll website builder to generate individual pages for each sketch. Each page provides an image of the source material, an SVG rendering of the encoded score, and an audio player that allows the user to hear a MIDI stream generated from the encoding.
 
-<br/>
 * __[Prokofiev’s Correspondents](https://arcg.is/mKWbj)__\\
 _An Interactive Visualization of Letters, Postcards, and Telegrams from the Serge Prokofiev Archive._
 
