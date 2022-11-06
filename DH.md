@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Digital Projects"
+weight: 2
 ---
 
 __[Music Encoding in Minimal Editions](https://hcommons.org/deposits/item/hc:31979/)__\\

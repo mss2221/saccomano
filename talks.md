@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DH Talks
+weight: 3
 permalink: /talks/
 ---
 ### __Presentations, Posters and Workshops__

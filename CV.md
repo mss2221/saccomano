@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+weight: 1
 ---
 
 <font size="5"><b>Mark Saccomano</b></font>
