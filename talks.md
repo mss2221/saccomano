@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: DH Talks
-weight: 3
+weight: 2
 permalink: /talks/
 ---
 ### __Presentations, Posters and Workshops__
