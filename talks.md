@@ -4,8 +4,9 @@ title: DH Talks
 weight: 2
 permalink: /talks/
 ---
+<h1 class="post-title">Digital Humanities</h1>
+<font size="1"><br/></font>
 ### __Presentations, Posters and Workshops__
-<br>
 __"The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“__\\
 Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28 – October 1, 2022.
 <br><br>

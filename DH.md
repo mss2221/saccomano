@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
 title:  "Digital Projects"
 weight: 1
 ---
-
+<h1 class="post-title">Digital Projects</h1>
+<font size="1"><br/></font>
 __[Music Encoding in Minimal Editions](https://hcommons.org/deposits/item/hc:31979/)__\\
 Integration of encoded music in an online minimal edition
 

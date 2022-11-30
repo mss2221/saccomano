@@ -4,6 +4,8 @@ title: Music Theory
 weight: 3
 permalink: /theory/
 ---
+<h1 class="post-title">Music Theory</h1>
+<font size="1"><br/></font>
 ### __Publications__
 
 __["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476){:target="_blank"}__ _Journal of Sonic Studies_&nbsp;20 (2020).

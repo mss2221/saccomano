@@ -3,7 +3,8 @@ layout: cv
 title: CV
 weight: 4
 ---
-<h1>Curriculum vitae</h1>
+<h1 class="post-title">Curriculum vitae</h1>
+<font size="1"><br/></font>
 <font size="5"><b>Mark Saccomano</b></font>
 <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <b>mark.saccomano@uni-paderborn.de</b>

@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 weight: 5
 permalink: /about/
 ---
+<h1 class="post-title">About</h1>
+<font size="1"><br/></font>
 <style>
 #foto {
   float: right;
