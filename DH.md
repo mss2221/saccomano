@@ -5,9 +5,17 @@ weight: 1
 ---
 <h1 class="post-title">Digital Projects</h1>
 <font size="1"><br/></font>
+__[Domestic Beethoven: A digital study of symphonic works arranged for the home.](https://domestic-beethoven.eu/)__
+
+An international research project in digital musicology — in conjunction with the Beethoven Archive Research Center Bonn, Oxford University e&#8209;Research Centre, and RISM Digital Center.
+<br/>
+<br/>
+
+---
+<br/>
 __[Music Encoding in Minimal Editions](https://hcommons.org/deposits/item/hc:31979/)__\\
 Demonstration of digital music editions within a minimal computing context.
-
+<br/>
 * __[El corrido mexicano](https://mss2221.github.io/corridosEd/)__
 
 * __[Serbian hymns from Zagreb](https://mss2221.github.io/zagreb/)__
