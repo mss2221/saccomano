@@ -5,7 +5,7 @@ weight: 1
 ---
 <h1 class="post-title">Digital Projects</h1>
 <font size="1"><br/></font>
-__[Domestic Beethoven: A digital study of symphonic works arranged for the home](https://domestic-beethoven.eu/)__
+__[Domestic Beethoven: A digital study of symphonic works arranged for the home](https://domestic-beethoven.eu/annotapp/)__
 
 International research project in digital musicology — in conjunction with the Beethoven Archive Research Center Bonn, Oxford University e&#8209;Research Centre, and RISM Digital Center.
 <br/>

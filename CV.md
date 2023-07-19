@@ -26,7 +26,7 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 
 **RESEARCH EXPERIENCE**
 
-_[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/)_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
+_[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/annotapp/)_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
 Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold<br/>
 Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University, and RISM Digital Center.
 Modeling musical structures for use with encoded music and MIR technology in applications that enable musicologists to view and annotate digitized resources in multiple archival collections.
