@@ -78,7 +78,7 @@ May 2020.
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
 
-“The Serge Prokofiev Archive as Data”<br/>
+[“The Archive as Collaborative Learning Space"](https://dh2018.adho.org/en/the-archive-as-collaborative-learning-space/)<br/>
 Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
 
 “The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
