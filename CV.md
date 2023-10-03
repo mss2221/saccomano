@@ -29,11 +29,11 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 _[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/annotapp/)_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
 Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold<br/>
 Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University, and RISM Digital Center.
-Modeling musical structures for use with encoded music and MIR technology in applications that enable musicologists to view and annotate digitized resources in multiple archival collections.
+[Design and improve data models for musical structures](https://dl.acm.org/doi/10.1145/3543882.3543891), developed for integration with Music Information Retrieval (MIR) technology within web applications. Collaborated on __[prototype for musicologists](https://domestic-beethoven.eu/annotapp/)__ to access, analyze, and annotate] digitized resources across diverse archival collections.
 
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 Columbia University, Rare Book & Manuscript Library<br/>
-Created XSLT style sheets to transform digitized records of holdings to Columbia RBML standards. Designed visualizations of materials using GIS software. Created Jekyll website for repository. Encoded musical sketches for display, playback, and analysis using MEI and Verovio.
+Created XSLT style sheets to [transform digitized records of holdings](https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10815449) to Columbia RBML standards. Utilized GIS software to create [visualizations of holdings](https://spa-data.github.io/spa-data/visualizations/) derived from catalog metadata. Developed an __[online digital collection](https://mss2221.github.io/spademo/sketches/)__, integrating Jekyll, MEI, and Verovio, to showcase sketchbook manuscripts with encoded transcriptions for playback.
 
 _[FAB-Musiconis: French-American Bridge for Medieval Musical Iconography](https://edblogs.columbia.edu/musiconis/)_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
 Columbia University and Paris-Sorbonne University<br/>
@@ -41,7 +41,7 @@ Cohort member of digital humanities training program cataloging and editing imag
 
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
 Columbia University, Digital Music Lab<br/>
-Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and Music21, as well as scripting with Python and XSLT.\\
+Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and __[Music21 and scripting with Python](https://blogs.cul.columbia.edu/dcip/2016/12/22/digital-archives-and-music-scores-analysis-manipulation-and-display/)__ and XSLT.\\
 <br/>
 <br/>
 **PUBLICATIONS**
@@ -52,6 +52,9 @@ Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for an
 <br/>
 
 **PRESENTATIONS**
+
+
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
 
 "What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28 – October 1, 2022.
 
@@ -68,7 +71,7 @@ Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, Ma
 
 [“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
-<br><br>
+
 [“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
 May 2020.
@@ -89,6 +92,21 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 
 “Reich, Repetition, and Ricoeur: Four Organs as a Bridge to Time and Narrative”<br/> Theorizing Music Temporality, Columbia University, New&nbsp;York, May 2014.
 
+**Panels**
+
+Moderator. "This Data in the Header: Encoding, Reuse and Standardization of Metadata in the Context of TEI and MEI." Joint MEC TEI Conference: Encoding Cultures, Paderborn, Germany, September 2023.
+
+Discussant. “The Domestic Beethoven Project.” Jahrestagung der Gesellschaft für
+Musikforschung (GfM), Berlin, September 28 – October 1, 2022.
+
+Discussant. “Beethoven’s Large-Scale Works Outside the Concert Hall: Toward a Digital
+Representation of Domestic Arrangements.” 21st Quinquennial Congress of the
+International Musicological Society: Music Across Borders (IMS), Athens, August 22-26,
+2022.
+
+Organizer. “Deciphering Encoded Music: Increasing Access to Open Data Resources.” Digital
+Humanities 2020 (DH2020) [session cancelled], with Natalia Ermolaev and Anna Kijas,
+Ottawa, July 20-24, 2020.
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
@@ -127,8 +145,7 @@ Instructor of Record
 Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), with Prof. Dr. Christine Siegert,
 Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
-"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies:\\
-Refining the Concept of the Musical Work"<br>
+"Using Digital Tools to Analyze Domestic Arrangements of Beethoven's Symphonies: Refining the Concept of the Musical Work"<br>
 Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, Germany, October 27, 2020.
 
 “Introduction to the Digital Humanities”<br/>
