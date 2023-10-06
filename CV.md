@@ -180,22 +180,6 @@ Honors Program in Linguistics&nbsp;&nbsp;&nbsp;1985 – 1986<br/>
 University of California, Berkeley\\
 <br/>
 <br/>
-**PROFESSIONAL DEVELOPMENT**
-
-_Digital Literacy for Instructional Practices_&nbsp;&nbsp;&nbsp;Fall 2017\\
-Columbia University, Center for Teaching and Learning\\
-Five-week seminar on designing classroom projects that foster critical and creative use of electronic information sources.
-
-<br/>
-<br/>
-**PROFESSIONAL ASSOCIATIONS**
-
-Member, Society for Music Theory (SMT)&nbsp;&nbsp;&nbsp;&nbsp;2013 – 2022\\
-Member, Association for Computing in the Humanities (ACH)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2022\\
-Member, Alliance of Digital Humanities Organizations (ADHO)&nbsp;&nbsp;&nbsp;&nbsp;2017 – 2022
-
-<br/>
-<br/>
 **TECHINICAL SKILLS**
 
 MEI, XSLT, XQuery, XML, HTML, EAD, oXygen, OpenRefine, \\
