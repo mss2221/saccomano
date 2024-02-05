@@ -44,6 +44,7 @@ Columbia University, Digital Music Lab<br/>
 Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and __[Music21 and scripting with Python](https://blogs.cul.columbia.edu/dcip/2016/12/22/digital-archives-and-music-scores-analysis-manipulation-and-display/)__ and XSLT.\\
 <br/>
 <br/>
+
 **PUBLICATIONS**
 
 Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891) In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
@@ -51,17 +52,18 @@ Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for an
 ["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 
-**PRESENTATIONS**
+**CONFERENCE ACTIVITY**
 
+**Presentations**
 
-["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} **Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
 
 "What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28 – October 1, 2022.
 
 "The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“. Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28 – October 1, 2022.
 
 “Modeling Music for Musicologists: A Linked Open Data Approach”\\
-Mark Saccomano,  Elisabete Shibata, David Lewis, Andrew Hankinson, and Kevin Page, Digital Humanities 2022 (DH2022), Tokyo, July 27, 2022.
+**Mark Saccomano**,  Elisabete Shibata, David Lewis, Andrew Hankinson, and Kevin Page, Digital Humanities 2022 (DH2022), Tokyo, July 27, 2022.
 
 "Chaos and Coherence: The Effects of Timbre on the Perception of Space"\\
 8th Conference of the Royal Musical Association Music & Philosophy Study Group (RMA MPSG), London, July 8, 2022.
@@ -107,6 +109,13 @@ International Musicological Society: Music Across Borders (IMS), Athens, August 
 Organizer. “Deciphering Encoded Music: Increasing Access to Open Data Resources.” Digital
 Humanities 2020 (DH2020) [session cancelled], with Natalia Ermolaev and Anna Kijas,
 Ottawa, July 20-24, 2020.
+
+**Posters**
+
+Shibata, Elisabete, David Lewis, **Mark Saccomano**, et al. “A New Conceptual Model for Musical Sources and Musicological Studies.”. Music Encoding Conference (MEC) 2022, Halifax, May 19 -22, 2022.
+
+Ermolaev, Natalia and **Mark Saccomano**. “The Archive as Collaborative Learning Space.” Digital Humanities 2018 (DH2018), Mexico City, June 26-29, 2018.
+
 <br/>
 <br/>
 **TEACHING EXPERIENCE**
@@ -156,9 +165,16 @@ Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, Jun
 
 <br/>
 <br/>
+**GRANTS**
+
+Consortium for Research Data on Material and Immaterial Cultural Heritage 2024
+“Text and Video Documentation for the Domestic Beethoven Annotator App”
+€ 10.000\\
+<br/>
+<br/>
 
 
-**SCHOLARSHIPS AND AWARDS**
+**AWARDS AND HONORS**
 
 Graduate School of Arts and Sciences Teaching Fellow&nbsp;&nbsp;&nbsp;2019<br/>
 Columbia University
