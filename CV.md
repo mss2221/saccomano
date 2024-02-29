@@ -56,11 +56,11 @@ Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for an
 
 **Presentations**
 
-["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} **Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} **Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4–8, 2023.
 
-"What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28 – October 1, 2022.
+"What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28–October 1, 2022.
 
-"The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“. Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28 – October 1, 2022.
+"The Domestic Beethoven Annotator App: A Tool for Sharing and Publishing Musicological Scholarship on Digital Resources“. Talk prepared for "Domestic Beethoven" project discussion at Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, September 28–October 1, 2022.
 
 “Modeling Music for Musicologists: A Linked Open Data Approach”\\
 **Mark Saccomano**,  Elisabete Shibata, David Lewis, Andrew Hankinson, and Kevin Page, Digital Humanities 2022 (DH2022), Tokyo, July 27, 2022.
@@ -78,7 +78,7 @@ Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Erm
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
 May 2020.
 
-"Dangerous Music: Analysis, Criticism, and the Aesthetic Object." Paper presented to the Music Cognition and Music & Disability Interest Groups, Society for Music Theory Annual Meeting, Columbus, Ohio, November 7-10, 2019.
+"Dangerous Music: Analysis, Criticism, and the Aesthetic Object." Paper presented to the Music Cognition and Music & Disability Interest Groups, Society for Music Theory Annual Meeting, Columbus, Ohio, November 7–10, 2019.
 
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
@@ -99,22 +99,22 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 Moderator. "This Data in the Header: Encoding, Reuse and Standardization of Metadata in the Context of TEI and MEI." Joint MEC TEI Conference: Encoding Cultures, Paderborn, Germany, September 2023.
 
 Discussant. “The Domestic Beethoven Project.” Jahrestagung der Gesellschaft für
-Musikforschung (GfM), Berlin, September 28 – October 1, 2022.
+Musikforschung (GfM), Berlin, September 28–October 1, 2022.
 
 Discussant. “Beethoven’s Large-Scale Works Outside the Concert Hall: Toward a Digital
 Representation of Domestic Arrangements.” 21st Quinquennial Congress of the
-International Musicological Society: Music Across Borders (IMS), Athens, August 22-26,
+International Musicological Society: Music Across Borders (IMS), Athens, August 22–26,
 2022.
 
 Organizer. “Deciphering Encoded Music: Increasing Access to Open Data Resources.” Digital
 Humanities 2020 (DH2020) [session cancelled], with Natalia Ermolaev and Anna Kijas,
-Ottawa, July 20-24, 2020.
+Ottawa, July 20–24, 2020.
 
 **Posters**
 
-Shibata, Elisabete, David Lewis, **Mark Saccomano**, et al. “A New Conceptual Model for Musical Sources and Musicological Studies.”. Music Encoding Conference (MEC) 2022, Halifax, May 19 -22, 2022.
+Shibata, Elisabete, David Lewis, **Mark Saccomano**, et al. “A New Conceptual Model for Musical Sources and Musicological Studies.”. Music Encoding Conference (MEC) 2022, Halifax, May 19–22, 2022.
 
-Ermolaev, Natalia and **Mark Saccomano**. “The Archive as Collaborative Learning Space.” Digital Humanities 2018 (DH2018), Mexico City, June 26-29, 2018.
+Ermolaev, Natalia and **Mark Saccomano**. “The Archive as Collaborative Learning Space.” Digital Humanities 2018 (DH2018), Mexico City, June 26–29, 2018.
 
 <br/>
 <br/>
