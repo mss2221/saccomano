@@ -26,22 +26,28 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 
 **RESEARCH EXPERIENCE**
 
-_[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/annotapp/)_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
-Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold<br/>
-Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University, and RISM Digital Center.
-[Design and improve data models for musical structures](https://dl.acm.org/doi/10.1145/3543882.3543891), developed for integration with Music Information Retrieval (MIR) technology within web applications. Collaborated on __[prototype for musicologists](https://domestic-beethoven.eu/annotapp/)__ to access, analyze, and annotate] digitized resources across diverse archival collections.
+_[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/annotapp/){:target="_blank"}_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
+_Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold_<br/>
+Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University e-Research Centre, and RISM Digital Center.
+[Collaborated on developing data models for musical content](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} for use with Linked Data in web annotations.
+Contributed to design and proudction of prototype for musicologists to access, analyze, and annotate digitized resources across diverse archival collections.
 
+<br>
 _Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
-Columbia University, Rare Book & Manuscript Library<br/>
-Created XSLT style sheets to [transform digitized records of holdings](https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10815449) to Columbia RBML standards. Utilized GIS software to create [visualizations of holdings](https://spa-data.github.io/spa-data/visualizations/) derived from catalog metadata. Developed an __[online digital collection](https://mss2221.github.io/spademo/sketches/)__, integrating Jekyll, MEI, and Verovio, to showcase sketchbook manuscripts with encoded transcriptions for playback.
+_Columbia University, Rare Book & Manuscript Library_<br/>
+Created XSLT style sheets to transform [digitized records of holdings](https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10815449){:target="_blank"} to Columbia RBML standards.
+Utilized GIS software to create [visualizations of holdings](https://spa-data.github.io/spa-data/visualizations/){:target="_blank"} derived from catalog metadata.
+Developed an [online digital collection](https://mss2221.github.io/spademo/sketches/){:target="_blank"}, integrating Jekyll, MEI, and Verovio, to showcase sketchbook manuscripts with encoded transcriptions for playback.
 
-_[FAB-Musiconis: French-American Bridge for Medieval Musical Iconography](https://edblogs.columbia.edu/musiconis/)_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
-Columbia University and Paris-Sorbonne University<br/>
+<br>
+_[FAB-Musiconis: French-American Bridge for Medieval Musical Iconography](https://edblogs.columbia.edu/musiconis/){:target="_blank"}_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
+_Columbia University and Paris-Sorbonne University_<br/>
 Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
 
+<br>
 _Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
-Columbia University, Digital Music Lab<br/>
-Researched methods of retrieving and processing digitally encoded music scores, focusing on MusicXML and __[Music21 and scripting with Python](https://blogs.cul.columbia.edu/dcip/2016/12/22/digital-archives-and-music-scores-analysis-manipulation-and-display/)__ and XSLT.\\
+_Columbia University, Digital Music Lab_<br/>
+Researched and reported on methods of retrieving and processing digitally encoded music scores, focusing on MusicXML, [Python scripting for Music21](https://blogs.cul.columbia.edu/dcip/2016/12/22/digital-archives-and-music-scores-analysis-manipulation-and-display/){:target="_blank"}, and XSLT transformations for archival metadata.\\
 <br/>
 <br/>
 
@@ -49,16 +55,17 @@ Researched methods of retrieving and processing digitally encoded music scores, 
 
 "Modeling Music for Digital Scholarship: Sounded Objects, Notated Objects, and Data Objects." In _Beethoven in the House: Studies of Domestic Music Arrangements_, edited by Christine Siegert. Bonn: Verlag Beethoven-Haus (forthcoming). 
 
-Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891) In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
+Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
 
-["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476) _Journal of Sonic Studies_&nbsp;20 (2020).\\
+["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476){:target="_blank"} _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
 
 **CONFERENCE ACTIVITY**
 
 **Presentations**
 
-["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} **Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4–8, 2023.
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"}\\
+**Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4–8, 2023.
 
 "What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28–October 1, 2022.
 
@@ -73,10 +80,10 @@ Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for an
 "Beyond Mechanical Sound: Discovering and Understanding Emergent Repetition in Minimal Music"\\
 Eighth International Conference on Music and Minimalism, Bowling Green, Ohio, May 5, 2022.
 
-[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html)\\
+[“Deciphering Encoded Music: Increasing Access to Open Data Resources”](https://dh2020.adho.org/wp-content/uploads/2020/07/636_DecipheringEncodedMusicIncreasingAccesstoOpenDataResources.html){:target="_blank"}\\
 Panel co-chair and organizer, Digital Humanities 2020 (DH2020), with Natalia Ermolaev and Anna Kijas, Ottawa, July 2020.
 
-[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/)\\
+[“MEI and Verovio for MIR: A Minimal Computing Approach”](https://hcommons.org/deposits/item/hc:31979/){:target="_blank"}\\
 MEC2020 Music Encoding Conference, with Natalia Ermolaev, Tufts University, Medford, MA,\\
 May 2020.
 
@@ -85,7 +92,7 @@ May 2020.
 “Altered Space: Miles Davis, Teo Macero, and the Role of the Studio in Spatial Perception”<br/>
 GSIM 2019 (conference) presented at the Graduate Center, City University of New York, April 2019.
 
-[“The Archive as Collaborative Learning Space"](https://dh2018.adho.org/en/the-archive-as-collaborative-learning-space/)<br/>
+[“The Archive as Collaborative Learning Space"](https://dh2018.adho.org/en/the-archive-as-collaborative-learning-space/){:target="_blank"}<br/>
 Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mexico City, June 2018.
 
 “The Archive as Data: Using Data Tools to Explore the Holdings of the Serge Prokofiev Archive”<br/>
@@ -100,8 +107,7 @@ Poster presented at Digital Humanities 2018 (DH2018), with Natalia Ermolaev, Mex
 
 Moderator. "This Data in the Header: Encoding, Reuse and Standardization of Metadata in the Context of TEI and MEI." Joint MEC TEI Conference: Encoding Cultures, Paderborn, Germany, September 2023.
 
-Discussant. “The Domestic Beethoven Project.” Jahrestagung der Gesellschaft für
-Musikforschung (GfM), Berlin, September 28–October 1, 2022.
+Discussant. “The Domestic Beethoven Project.” Jahrestagung der Gesellschaft für Musikforschung (GfM), Berlin, September 28–October 1, 2022.
 
 Discussant. “Beethoven’s Large-Scale Works Outside the Concert Hall: Toward a Digital
 Representation of Domestic Arrangements.” 21st Quinquennial Congress of the
@@ -169,12 +175,16 @@ Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, Jun
 <br/>
 **GRANTS**
 
-Consortium for Research Data on Material and Immaterial Cultural Heritage 2024
-“Text and Video Documentation for the Domestic Beethoven Annotator App”
-€ 10.000\\
-<br/>
-<br/>
+COST Short Term Scientific Mission Grant, 2024\\
+EarlyMuse – Working Group 2: Sources\\
+Institución Milá y Fontanals de Investigación en Humanidades, Barcelona\\
+€ 2,500
 
+Consortium for Research Data on Material and Immaterial Cultural Heritage (NFDI4Culture), 2024\\
+“Text and Video Documentation for the Domestic Beethoven Annotator App”\\
+€ 10,000\\
+<br/>
+<br/>
 
 **AWARDS AND HONORS**
 
