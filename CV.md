@@ -26,36 +26,40 @@ University of California, Berkeley - B.A. in Linguistics, Magna cum laude&nbsp;&
 
 **RESEARCH EXPERIENCE**
 
+_VerDigital Digital Bellini Edition_&nbsp;&nbsp;&nbsp;2025<br/>
+_Dipartimento di Musicologia e Beni Culturali, Università di Pavia_<br/>
+- Develop model and tooling for digital critical edition of music, libretto, and sketches.
+- Collaborate with software developers to customize online ineterface.
+- Evaluate results and disseminate findings through presentations and publications.
+
+<br/>
+_[KreativInstitut Ostwestfalen-Lippe ](https://kreativ.institute/en){:target="_blank"}_&nbsp;&nbsp;&nbsp;2023 – 2024<br/>
+_Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold_<br/>
+ - Obtained grants for research software projects to increase adherence to FAIR principles.
+ - Prepared literature reviews and research summaries for grant proposals.
+ - Created user and code documentation for ongoing research software projects.
+
+<br/>
 _[Domestic Beethoven: Digital Studies of Hausmusik Arrangements](http://domestic-beethoven.eu/annotapp/){:target="_blank"}_&nbsp;&nbsp;&nbsp;2020 – 2023<br/>
 _Musikwissenschaftliches Seminar, Universität Paderborn / Hochschule für Musik Detmold_<br/>
-Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University e-Research Centre, and RISM Digital Center.
-[Collaborated on developing data models for musical content](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} for use with Linked Data in web annotations.
-Contributed to design and proudction of prototype for musicologists to access, analyze, and annotate digitized resources across diverse archival collections.
+- Developer and Researcher for digital musicology project in collaboration with Beethoven-Haus Bonn, Oxford University e-Research Centre, and RISM Digital Center.
+- [Collaborated on developing data models for musical content](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} for use with Linked Data in web annotations.
+- Contributed to design and proudction of prototype for musicologists to access, analyze, and annotate digitized resources across diverse archival collections.
 
 <br>
-_Serge Prokofiev Archive_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
+_[Serge Prokofiev Archive](https://library.columbia.edu/libraries/rbml/units/performing_arts/prokofiev.html)_&nbsp;&nbsp;&nbsp;2017 – 2019<br/>
 _Columbia University, Rare Book & Manuscript Library_<br/>
-Created XSLT style sheets to transform [digitized records of holdings](https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10815449){:target="_blank"} to Columbia RBML standards.
-Utilized GIS software to create [visualizations of holdings](https://spa-data.github.io/spa-data/visualizations/){:target="_blank"} derived from catalog metadata.
-Developed an [online digital collection](https://mss2221.github.io/spademo/sketches/){:target="_blank"}, integrating Jekyll, MEI, and Verovio, to showcase sketchbook manuscripts with encoded transcriptions for playback.
+- Created XSLT style sheets to transform [digitized records of holdings](https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_10815449){:target="_blank"} to Columbia RBML standards.
+- Utilized GIS software to create [visualizations of holdings](https://spa-data.github.io/spa-data/visualizations/){:target="_blank"} derived from catalog metadata.
+- Developed an [online digital collection](https://mss2221.github.io/spademo/sketches/){:target="_blank"}, integrating Jekyll, MEI, and Verovio, to showcase sketchbook manuscripts with encoded transcriptions for playback.
 
-<br>
-_[FAB-Musiconis: French-American Bridge for Medieval Musical Iconography](https://edblogs.columbia.edu/musiconis/){:target="_blank"}_&nbsp;&nbsp;&nbsp;2017 – 2018<br/>
-_Columbia University and Paris-Sorbonne University_<br/>
-Cohort member of digital humanities training program cataloging and editing image records for a database of medieval representations of musical instruments and performance.
-
-<br>
-_Digital Centers Internship Program_&nbsp;&nbsp;&nbsp;2016 – 2017<br/>
-_Columbia University, Digital Music Lab_<br/>
-Researched and reported on methods of retrieving and processing digitally encoded music scores, focusing on MusicXML, [Python scripting for Music21](https://blogs.cul.columbia.edu/dcip/2016/12/22/digital-archives-and-music-scores-analysis-manipulation-and-display/){:target="_blank"}, and XSLT transformations for archival metadata.\\
-<br/>
 <br/>
 
 **PUBLICATIONS**
 
 "Modeling Music for Digital Scholarship: Sounded Objects, Notated Objects, and Data Objects." In _Beethoven in the House: Studies of Domestic Music Arrangements_, edited by Christine Siegert. Bonn: Verlag Beethoven-Haus (forthcoming). 
 
-Lewis, David, Elisabete Shibata, Mark Saccomano. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
+Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
 
 ["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476){:target="_blank"} _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
@@ -174,6 +178,10 @@ Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, Jun
 <br/>
 <br/>
 **GRANTS**
+
+Consortium for Research Data on Material and Immaterial Cultural Heritage (NFDI4Culture), 2025\\
+“Refinement and Standardization of the Music Annotation Model”\\
+€ 5,000\\
 
 COST Short Term Scientific Mission Grant, 2024\\
 EarlyMuse – Working Group 2: Sources\\
