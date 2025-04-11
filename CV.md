@@ -181,7 +181,7 @@ Facultad de Música, Universidad Nacional Autónoma de México, Mexico City, Jun
 
 Consortium for Research Data on Material and Immaterial Cultural Heritage (NFDI4Culture), 2025\\
 “Refinement and Standardization of the Music Annotation Model”\\
-€ 5,000\\
+€ 5,000
 
 COST Short Term Scientific Mission Grant, 2024\\
 EarlyMuse – Working Group 2: Sources\\
