@@ -59,9 +59,9 @@ _Columbia University, Rare Book & Manuscript Library_<br/>
 
 "Modeling Music for Digital Scholarship: Sounded Objects, Notated Objects, and Data Objects." In _Beethoven in the House: Studies of Domestic Music Arrangements_, edited by Christine Siegert. Bonn: Verlag Beethoven-Haus (forthcoming). 
 
-Ros-Fábregas, Emilio, Kevin Page, __Mark Saccomano__, Olivier Lartillot, y Anastasiia Mazurenko. “Perspectivas Sobre edición Musical Digital, preservación De Patrimonio, anotación Y análisis: Una reunión Del Projecto COST Action En Barcelona”. [Anuario Musical, no. 79 (marzo 7, 2025): 560. Accedido abril 13, 2025](https://anuariomusical.revistas.csic.es/index.php/anuariomusical/article/view/560){:target="_blank"}.
+Ros-Fábregas, Emilio, Kevin Page, __Mark Saccomano__, Olivier Lartillot, and Anastasiia Mazurenko. [“Perspectivas Sobre edición Musical Digital, preservación De Patrimonio, anotación Y análisis: Una reunión Del Projecto COST Action En Barcelona.”](https://anuariomusical.revistas.csic.es/index.php/anuariomusical/article/view/560){:target="_blank"} Anuario Musical, no. 79 (2024).
 
-Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. 2022. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022): 10-18. doi:10.1145/3543882.3543891
+Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022).
 
 ["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476){:target="_blank"} _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
