@@ -57,11 +57,14 @@ _Columbia University, Rare Book & Manuscript Library_<br/>
 
 **PUBLICATIONS**
 
+
 "Modeling Music for Digital Scholarship: Sounded Objects, Notated Objects, and Data Objects." In _Beethoven in the House: Studies of Domestic Music Arrangements_, edited by Christine Siegert. Bonn: Verlag Beethoven-Haus (forthcoming). 
 
-Ros-Fábregas, Emilio, Kevin Page, __Mark Saccomano__, Olivier Lartillot, and Anastasiia Mazurenko. [“Perspectivas Sobre edición Musical Digital, preservación De Patrimonio, anotación Y análisis: Una reunión Del Projecto COST Action En Barcelona.”](https://anuariomusical.revistas.csic.es/index.php/anuariomusical/article/view/560){:target="_blank"} Anuario Musical, no. 79 (2024).
+__Saccomano, Mark__, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. “Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists.” _Journal of the Text Encoding Initiative_ 18, 2025. [http://journals.openedition.org/jtei/5832](http://journals.openedition.org/jtei/5832)
 
-Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. Association for Computing Machinery, New York (2022).
+Ros-Fábregas, Emilio, Kevin Page, __Mark Saccomano__, Olivier Lartillot, and Anastasiia Mazurenko. [“Perspectivas Sobre edición Musical Digital, preservación De Patrimonio, anotación Y análisis: Una reunión Del Projecto COST Action En Barcelona.”](https://doi.org/10.3989/anuariomusical.2024.79.560){:target="_blank"} Anuario Musical, no. 79, 2025.
+
+Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. [“A model for annotating musical versions and arrangements across multiple documents and media.”](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} In _Proceedings of the 9th International Conference on Digital Libraries for Musicology_. New York: Association for Computing Machinery, 2022.
 
 ["The Timbre of Tone, the Texture of Space: An Embodied Approach to the Atmospheric Modulations of Éliane Radigue."](https://www.researchcatalogue.net/view/979475/979476){:target="_blank"} _Journal of Sonic Studies_&nbsp;20 (2020).\\
 <br/>
@@ -69,9 +72,6 @@ Lewis, David, Elisabete Shibata, __Mark Saccomano__. et al. [“A model for anno
 **CONFERENCE ACTIVITY**
 
 **Presentations**
-
-["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"}\\
-**Mark Saccomano**, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4–8, 2023.
 
 "What Affect Means for Music Analysis: Examining Texture in Steve Reich’s Minimalist Works," Jahrestagung der Gesellschaft für Musikforschung (GfM), "Nach der Norm: Musikwissenschaft im 21. Jahrhundert," Berlin, 28 September 28–October 1, 2022.
 
