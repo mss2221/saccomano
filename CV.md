@@ -191,7 +191,7 @@ Institución Milá y Fontanals de Investigación en Humanidades, Barcelona\\
 € 2,500
 
 Consortium for Research Data on Material and Immaterial Cultural Heritage (NFDI4Culture), 2024\\
-“Text and Video Documentation for the Domestic Beethoven Annotator App”\\
+[“Text and Video Documentation for the Domestic Beethoven Annotator App”](https://domestic-beethoven.eu/tutorials/)\\
 € 10,000\\
 <br/>
 <br/>

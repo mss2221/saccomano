@@ -5,10 +5,11 @@ weight: 1
 ---
 <h1 class="post-title">Digital Projects</h1>
 <font size="1"><br/></font>
-__[Tutorial and Documentation: Beethoven Annotator App](https://domestic-beethoven.eu/tutorials/)__
+__[Tutorial and Documentation: BeethovenAnnotator App](https://docs.nfdi4culture.de/report-flexfunds-2024/2-05-text-and-video-documentation-for-the-domestic-beethoven-annotator-app)__<br/>[https://domestic-beethoven.eu/tutorials](https://domestic-beethoven.eu/tutorials/)
 
 * Multimodal tutorial and documentation for the Domestic Beethoven Annotator App, a protoype research tool for digital musicology.
-* Funding obtained from NFDI4Culture, a German consortium fostering interoperable and sustainable data infrastructures in the cultural domain. 
+* Funding obtained from NFDI4Culture, a German consortium fostering interoperable and sustainable data infrastructures in the cultural domain.
+
 
 <br/>
 __[Domestic Beethoven: A digital study of symphonic works arranged for the home](https://domestic-beethoven.eu/annotapp/)__
