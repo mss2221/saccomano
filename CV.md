@@ -57,7 +57,9 @@ _Columbia University, Rare Book & Manuscript Library_<br/>
 
 "Modeling Music for Digital Scholarship: Sounded Objects, Notated Objects, and Data Objects." In _Beethoven in the House: Studies of Domestic Music Arrangements_, edited by Christine Siegert. Bonn: Verlag Beethoven-Haus (forthcoming). 
 
-__Saccomano, Mark__, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. “Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists.” _Journal of the Text Encoding Initiative_ 18, 2025. [http://journals.openedition.org/jtei/5832](http://journals.openedition.org/jtei/5832){:target="_blank"}
+Francesco Maccarini, Candida Billie Mantica, Giovanni Meriani, and __Mark Saccomano__. 2026. ["A model for an interactive digital critical edition of 19th-century Italian opera."](https://doi.org/10.1145/3815723.3815733){:target="_blank"} In _Proceedings of the 13th International Conference on Digital Libraries for Musicology (DLfM '26)_. New York: Association for Computing Machinery, 2026.
+
+__Saccomano, Mark__, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. [“Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists.”](http://journals.openedition.org/jtei/5832){:target="_blank"} _Journal of the Text Encoding Initiative_ 18, 2025.
 
 Ros-Fábregas, Emilio, Kevin Page, __Mark Saccomano__, Olivier Lartillot, and Anastasiia Mazurenko. [“Perspectivas Sobre edición Musical Digital, preservación De Patrimonio, anotación Y análisis: Una reunión Del Projecto COST Action En Barcelona.”](https://doi.org/10.3989/anuariomusical.2024.79.560){:target="_blank"} Anuario Musical, no. 79, 2025.
 
