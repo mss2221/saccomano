@@ -54,7 +54,7 @@ The Serge Prokofiev Archive contains sketchbooks in which Prokofiev wrote out br
 
 Verovio was incorporated into the Jekyll website builder to generate individual pages for each sketch. Each page provides an image of the source material, an SVG rendering of the encoded score, and an audio player that allows the user to hear a MIDI stream generated from the encoding.
 
-* __[Prokofiev’s Correspondents](https://arcg.is/mKWbj){:target="_blank"}__\\
+* __[Prokofiev’s Correspondents](https://arcg.is/mKWbj){:target="_blank"}{: #geoviz}__\\
 _An Interactive Visualization of Letters, Postcards, and Telegrams from the Serge Prokofiev Archive._
 
 Using publicly available metadata from Columbia’s Rare Book and Manuscript Library’s website, I&nbsp;created a web-based display with ArcGIS of the correspondence holdings in the Prokofiev archive. This involved preparing and cleaning the data set for use in a visualization program, researching available GIS applications and geolocation services, and acquiring the data wrangling skills necessary to produce an engaging and informative presentation online. The map provides a graphic representation of Prokofiev’s various residences while living in the West, as well as the locations of his correspondents. In addition, by highlighting outliers, the map allows users to discover aspects of Prokofiev’s personal and professional life not accessible through a simple enumerative listing of the archive’s contents.
